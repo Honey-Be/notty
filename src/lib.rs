@@ -13,7 +13,7 @@
 //  
 //  You should have received a copy of the GNU Affero General Public License
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
-#![feature(io, pub_restricted, associated_consts)]
+#![feature(io, pub_restricted)]
 
 extern crate base64;
 extern crate mime;
